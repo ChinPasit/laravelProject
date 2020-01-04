@@ -1,0 +1,23 @@
+table tr th{
+  background:#337ab7;
+  color:white;
+  text-align:left;
+  vertical-align:center; 
+  font-family: 'Prompt',
+  sans-serif;
+}
+.fontnew {
+	font-family: 'Prompt',
+	sans-serif;
+}
+body {
+	background-image: url('https://firebasestorage.googleapis.com/v0/b/chinjung-8fcc0.appspot.com/o/white-background-office-white-background-office-images-remove-white-background-office-2010-change-white-background-in-office-2013-open-office-remove-white.jpg?alt=media&token=a4efb6ac-c24f-4e95-bc86-efd6714662bf');
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-o-background-size: 100% 100%, auto;
+	-moz-background-size: 100% 100%, auto;
+	-webkit-background-size: 100% 100%, auto;
+	background-size: 100% 100%, auto;
+}
